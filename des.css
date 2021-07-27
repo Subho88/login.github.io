@@ -1,0 +1,19 @@
+.container {
+    padding: 36px;
+    font-size: large;
+    font-family: cursive;
+    max-width: 80%;
+    margin: auto;
+}
+
+.form-group {
+    font-size: large;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.EmailHelp {
+    font-size: large;
+    font-weight: bold;
+    font-family: cursive;
+}
